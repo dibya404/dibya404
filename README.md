@@ -1,5 +1,4 @@
 - 👋 Hi, I’m dibya
-- 👀 I’m interested in myself
 - 🌱 I’m currently learning javascript.
 - 💞
 - 📫 How to reach me (email: Dibya.nath8420@gmail.com)
